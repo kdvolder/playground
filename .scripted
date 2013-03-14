@@ -1,0 +1,10 @@
+{
+	exec: {
+		onKeys: {
+			"CTRL+ALT+SHIFT+X": {
+				cwd: '/',
+				cmd: 'ls -la'
+			}
+		}
+	}
+}
